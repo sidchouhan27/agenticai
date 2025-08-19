@@ -1,2 +1,1 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Software engineer with a Master’s in Computer Science from the University of Cincinnati. I bring hands-on experience from Procter & Gamble and co-founding Motiv, with expertise in AI, data science, and MLOps. I focus on building scalable, impactful solutions that enhance decision-making and drive innovation.
